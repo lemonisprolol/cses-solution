@@ -1,1 +1,4 @@
-No define, no template, no complex nonsene wording, just pure code!
+- Easy-to-understand code
+- Go to each section and use Ctrl + F to find the problem using the problem number code or by the problem's name.
+- I have yet to complete all the problems.
+- Happy learning!
